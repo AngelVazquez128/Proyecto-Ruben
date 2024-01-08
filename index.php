@@ -12,7 +12,7 @@
 </head>
 <body>
     <form action="bienvenido.php" method="post" id="form1">
-        <h2>Iniciar sesión cambio 1</h2>
+        <h2>Iniciar sesión cambio 2</h2>
         <label for="email">Correo electrónico:</label>
         <input type="email" id="correo" name="correo">
 
